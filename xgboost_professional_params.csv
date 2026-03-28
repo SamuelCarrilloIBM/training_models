@@ -1,0 +1,2 @@
+booster,max_depth,min_child_weight,gamma,learning_rate,n_estimators,reg_alpha,reg_lambda,subsample,colsample_bytree
+dart,6,5,0.016608979189959745,0.2185129078751368,428,0.0011331847940324567,0.5496607297504638,0.6581212765611761,0.9515099939129

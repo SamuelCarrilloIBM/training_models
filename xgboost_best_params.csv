@@ -1,0 +1,2 @@
+booster,max_depth,min_child_weight,gamma,learning_rate,n_estimators,reg_alpha,reg_lambda,subsample,colsample_bytree
+gbtree,5,7,0.2541254959703949,0.27633197673870735,311,0.5763403523202324,0.42336795112874365,0.6473879523212798,0.8085994327070148
